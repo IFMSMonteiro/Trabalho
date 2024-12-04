@@ -138,7 +138,7 @@ form{
     width: 30%;
     padding: 10px 20px;
 }
-form input, textarea{
+form input, form textarea{
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -150,7 +150,7 @@ form input, textarea{
 form button{
     cursor: pointer;
     padding: 10px 100px;
-    font-size: 1rem;
+    font-size: 1em;
     color: #FFF;
     background-color: #808080;
     border: none;
